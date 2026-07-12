@@ -1,0 +1,10 @@
+a=4
+b=8
+c=13
+d=25
+e=67
+f=9
+g=0
+#print(a+b+c)
+print(a**b)
+print(a-(b+c)*d/(e**f**g))

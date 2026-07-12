@@ -1,0 +1,10 @@
+print("Hello World")
+print("Aarav Patel")
+print("Sarvottam International School")
+print("Aarav is my name.")
+print("My age is 11.")
+print("Aarav is my name.", "My age is 11.")
+
+print(23)
+print(35)
+print(35+23)
